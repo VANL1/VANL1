@@ -3,7 +3,7 @@
 Мне 17 лет. Здесь я собираю учебные и личные проекты и пробую разные идеи в коде.
 
 ## Проекты
-
+- [Сайт-резюме](https://github.com/VANL1/resume-website) — Python
 - [cars_game](https://github.com/VANL1/cars_game) — Python
 - [car_homework](https://github.com/VANL1/car_homework) — Python
 - [MishaTorNewVideos](https://github.com/VANL1/MishaTorNewVideos) — HTML
